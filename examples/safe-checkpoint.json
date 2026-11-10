@@ -1,0 +1,11 @@
+{
+  "project": "SOVEREIGNSTATE",
+  "focus": "Review a read-only project checkpoint",
+  "status": "READ_ONLY",
+  "artifacts": [
+    "SovereignState browser interface"
+  ],
+  "notes": [
+    "This checkpoint grants no operational authority."
+  ]
+}

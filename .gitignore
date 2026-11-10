@@ -1,0 +1,15 @@
+# Credentials and local guard state
+.bridge_token
+.checkpoint_guard/
+*.key
+*.pem
+# Runtime logs and private state
+*.log
+*-export.json
+*.sealed.json
+vault*.json
+# Python
+__pycache__/
+*.pyc
+# OS and editor
+.DS_Store
